@@ -40,8 +40,7 @@ const LoveLetter = () => {
         Keep smiling always i love that :) and stay happy for ever...<br /> Missed youuuu :(<br />
         HAPPY BIRTHDAY MICKY ❤️👑<br />
         Eid Milad Saeed meri jaan❤️👑, Taqabal Allah Oyatak<br />
-        Pls don't be mind just im sending my wishes to you<br />
-        -Your VKY
+              -Your viCky💝
       </div>
       <audio ref={audioRef} src={audioFile} onError={(e) => console.error('Audio error:', e.message)} />
     </div>
