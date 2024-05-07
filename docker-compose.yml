@@ -1,7 +1,7 @@
 version: '2'
 services:
-  react-love:
-    image: react-love
+  react-letter:
+    image: react-letter
     restart: always
     ports:
       - 8686:80
